@@ -90,3 +90,5 @@ The project follows the Clean Architecture principles, which separates the codeb
   </tr>
 </table>
 
+Hello, Kieu Ba Duong. 
+I am your follower. Could say me your email and password from this app, please🙏. I want to login to this app, but I can't sing up. So, please, HELPPPP!? 
